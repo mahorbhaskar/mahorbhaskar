@@ -18,6 +18,6 @@ I love to learn new tips and tricks always a learner ❤️
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahorbhaskar&show_icons=true&locale=en&layout=compact" alt="mahorbhaskar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahorbhaskar&show_icons=true&locale=en" alt="mahorbhaskar" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahorbhaskar&show_icons=true&locale=en" alt="mahorbhaskar" /><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahorbhaskar&" alt="mahorbhaskar" /></p>
