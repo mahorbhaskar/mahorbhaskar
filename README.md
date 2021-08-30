@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Mahor</h1>
-<h3 align="center">A passionate full stack Web developer</h3>
+<h1 align="center">Hey 👋 there everyone, Welcome to my GitHub Profile</h1>
+<h3 align="center">✌️ I am bhaskar mahor,A passionate full stack Web developer I'am graduate and currently I'm working on django Web based app....</h3>
 
 - 📫 How to reach me **bhaskarmahor1@gmail.com**
 
