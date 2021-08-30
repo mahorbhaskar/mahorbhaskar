@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋 there everyone, Welcome to my GitHub Profile</h1>
 I am bhaskar mahor,A passionate full stack Web developer I'am graduate and currently working on django Web based app.
 I love to learn new tips and tricks always a learner ❤️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahorbhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="mahorbhaskar" /> </p>
 
 - 📫 How to reach me **bhaskarmahor1@gmail.com**
 
