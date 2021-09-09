@@ -2,6 +2,7 @@
 <h2 align = "left">Hey 👋 there everyone </h2> 
 I am bhaskar mahor,A passionate full stack Web developer I'am graduate and currently working on django Web based app.
 I love to learn new tips and tricks always a learner ❤️
+<br>
 * 📫 How to reach me **bhaskarmahor1@gmail.com**
 
 * ⚡ Fun fact **I am so talkative**
