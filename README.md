@@ -6,12 +6,12 @@ I love to learn new tips and tricks always a learner ❤️
 
 * 📫 How to reach me bhaskarmahor1@gmail.com
 
-* ⚡ Fun fact **I am so talkative**
+* ⚡ Fun fact **I talk alot when i used to with someone**
 <hr>
 <h2 align= "left"> <i> Contact Me On : </i> </h2>
   <div>
   <a href="https://www.linkedin.com/in/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/mahorbhaskar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   <br>
 
