@@ -3,11 +3,13 @@
 I am bhaskar mahor,A passionate full stack Web developer I'am graduate and currently working on django Web based app.
 I love to learn new tips and tricks always a learner ❤️
 <br>
+
+*  👯 I’m looking to contribute on **Open Source Project**
+
 * 🌱 I’m currently learning **Anything that I want to learn**
 
-* 👯 I’m looking to contribute on **Open Source Project**
-
 * 💬 Ask me about **Python, JavaScript**
+
 * 📫 How to reach me bhaskarmahor1@gmail.com
 
 * ⚡ Fun fact **I talk alot when i used to with someone**
