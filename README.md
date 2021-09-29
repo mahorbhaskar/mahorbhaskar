@@ -2,6 +2,7 @@
 
 ### Hi 👋 I'm Bhaskar Mahor 
 I'am graduate and currently working as Python Web Developer responsible for managing the interchange of data between the server and the users. My primary focus is the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end and also be responsible for integrating the front-end elements built by my co-workers into the application. <br>
+
 I feel like a computer wizard from the age of 13. I am spending all day typing at a keyboard making the machine do what I want.Every day I face new challenges and learn how to figure things out.I'm an engineer working on potentially very complex problems.I always like to learn new technology and I think being a learner is a good things that keeps you young.❤️
 <br>
 <h2 align= "left"> <i> Contact Me On : </i> </h2>
