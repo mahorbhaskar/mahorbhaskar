@@ -1,11 +1,9 @@
-![](images/code.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahorbhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="mahorbhaskar" /> </p>
-<h2 align = "left">Hey 👋 there everyone </h2> 
 
-I am bhaskar mahor,A passionate full stack Web developer I'am graduate and currently working on django Web based app.
-I love to learn new tips and tricks always a learner ❤️
+### Hi 👋 I'm Bhaskar Mahor 
+I'am graduate and currently working as Python Web Developer responsible for managing the interchange of data between the server and the users. My primary focus is the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end and also be responsible for integrating the front-end elements built by my co-workers into the application. <br>
+I feel like a computer wizard from the age of 13. I am spending all day typing at a keyboard making the machine do what I want.Every day I face new challenges and learn how to figure things out.I'm an engineer working on potentially very complex problems.I always like to learn new technology and I think being a learner is a good things that keeps you young.❤️
 <br>
-
 *  👯 I’m looking to contribute on **Open Source Project**
 
 * 🌱 I’m currently learning **Anything that I want to learn**
