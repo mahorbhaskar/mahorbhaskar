@@ -5,14 +5,14 @@ I'am graduate and currently working as Python Web Developer responsible for mana
 
 I feel like a computer wizard from the age of 13. I am spending all day typing at a keyboard making the machine do what I want.Every day I face new challenges and learn how to figure things out.I'm an engineer working on potentially very complex problems.I always like to learn new technology and I think being a learner is a good things that keeps you young.❤️
 <br>
-<h2 align= "left"> <i> Contact Me On : </i> </h2>
+<h2 align= "left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> <i> Contact Me On : </i> </h2>
   <div>
   <a href="https://www.linkedin.com/in/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href=""><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   </div>
  
-<h2 align="left"> <i>Languages & Tools </i> </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> <i>Languages & Tools </i> </h2>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
