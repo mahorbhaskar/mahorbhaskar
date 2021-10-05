@@ -9,7 +9,7 @@ I feel like a computer wizard from the age of 13. I am spending all day typing a
   <div>
   <a href="https://www.linkedin.com/in/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href=""><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/baby_0509"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   </div>
  
 <h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> <i>Languages & Tools </i> </h2>
