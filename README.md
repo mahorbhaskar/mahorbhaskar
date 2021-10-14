@@ -5,7 +5,7 @@ I'am graduate and currently working as Python Web Developer responsible for mana
 
 I feel like a computer wizard from the age of 13. I am spending all day typing at a keyboard making the machine do what I want.Every day I face new challenges and learn how to figure things out.I'm an engineer working on potentially very complex problems.I always like to learn new technology and I think being a learner is a good things that keeps you young.❤️
 <br>
-<h2 align= "left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> <i> Contact Me On : </i> </h2>
+<h2 align= "left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> <i> Join me at </i> </h2>
   <div>
   <a href="https://www.linkedin.com/in/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/bhaskarmahor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
